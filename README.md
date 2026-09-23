@@ -1,53 +1,55 @@
-# Maya Chen Portfolio
+# Diane Ngo Portfolio
 
-A personal portfolio site for Maya Chen, an independent product designer and strategist based in New York. The site presents her approach to making complex digital products feel clear, useful, and human.
+A personal portfolio site for Diane Ngo, a computer engineering student at Lehigh University with interests in machine learning, signal processing, robotics, and research-driven engineering.
 
 ## About
 
-Maya has 9+ years of experience designing digital products. Her work focuses on:
+Diane is a first-generation college student pursuing a Bachelor of Science in Computer Engineering, with experience in:
 
-- Product strategy
-- Experience design
-- Design systems
+- machine learning and biomedical signal analysis
+- digital signal processing
+- robotics and FTC team leadership
+- sensor design and hardware-enabled systems
+- STEM competition and research collaboration
 
-She is available for select work and can be reached at [hello@mayachen.design](mailto:hello@mayachen.design).
+She can be reached at [din230@lehigh.edu](mailto:din230@lehigh.edu) and connects on [LinkedIn](https://www.linkedin.com/in/ngo-diane/).
 
-## Selected Work
+## Highlights
 
-- **Brighter money for everyone.** A calmer, more human banking experience for the next generation of builders. Fintech, 2024.
-- **Making room for culture.** A culture-focused digital experience. Culture, 2023.
-- **A clearer path to climate action.** A digital product helping people engage with climate action. Climate, 2023.
+- **Research Intern | Temple University Signal and Information Processing Lab** — developed and refined machine learning models for EEG and cardiology signals.
+- **FYRE - Lehigh University** — participated in design and materials exploration for sensing and smart systems.
+- **FTC Robotics Team / Science Olympiad** — led technical design, programming, and strategy in robotics competitions.
 
 ## Experience
 
-| Period | Company | Role | Location |
+| Period | Organization | Role | Location |
 | --- | --- | --- | --- |
-| 2022 - now | Independent | Product Designer / Strategist | New York, NY |
-| 2018 - 2022 | Northstar | Senior Product Designer | Brooklyn, NY |
-| 2015 - 2018 | Soft Serve | Designer | New York, NY |
+| 2026 - now | Lehigh University | B.S. in Computer Engineering | Bethlehem, PA |
+| 2025 - 2026 | Temple University | Research Intern, Signal and Information Processing Lab | Philadelphia, PA |
+| 2023 - 2026 | Philadelphia High School for Girls | FTC Robotics Team / Science Olympiad / Student Ambassador | Philadelphia, PA |
 
 ## Site Structure
 
-- **Hero:** Introduction, positioning, and a link to selected work
-- **Selected work:** Featured projects and disciplines
-- **About:** Design philosophy and personal background
-- **Experience:** Career history
-- **Contact:** Availability and email contact
+- **Hero:** introduction and positioning
+- **Highlights:** key experiences and projects
+- **About:** background and technical interests
+- **Experience:** education and timeline
+- **Contact:** email and LinkedIn
 
 ## Built With
 
 - Semantic HTML
 - CSS with responsive layouts, custom properties, and animations
 - Vanilla JavaScript for mobile navigation, scroll reveals, and the dynamic footer year
-- Google Fonts: Manrope, Playfair Display, and DM Mono
+- Google Fonts and a Calibri-based interface style
 - Unsplash imagery for the portfolio visuals
 
 ## Run Locally
 
-This is a static site. Open `index.html` in a browser, or serve the directory with any local HTTP server:
+This is a static site. Open `index.html` directly in a browser, or serve the directory with a local HTTP server:
 
 ```bash
-python3 -m http.server
+python3 -m http.server 8000
 ```
 
 Then visit `http://localhost:8000`.
