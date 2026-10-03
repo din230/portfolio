@@ -28,28 +28,5 @@ She can be reached at [din230@lehigh.edu](mailto:din230@lehigh.edu) and connects
 | 2025 - 2026 | Temple University | Research Intern, Signal and Information Processing Lab | Philadelphia, PA |
 | 2023 - 2026 | Philadelphia High School for Girls | FTC Robotics Team / Science Olympiad / Student Ambassador | Philadelphia, PA |
 
-## Site Structure
-
-- **Hero:** introduction and positioning
-- **Highlights:** key experiences and projects
-- **About:** background and technical interests
-- **Experience:** education and timeline
-- **Contact:** email and LinkedIn
-
-## Built With
-
-- Semantic HTML
-- CSS with responsive layouts, custom properties, and animations
-- Vanilla JavaScript for mobile navigation, scroll reveals, and the dynamic footer year
-- Google Fonts and a Calibri-based interface style
-- Unsplash imagery for the portfolio visuals
-
-## Run Locally
-
-This is a static site. Open `index.html` directly in a browser, or serve the directory with a local HTTP server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
+## Running
+https://din230.github.io/portfolio/
